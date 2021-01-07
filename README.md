@@ -22,13 +22,13 @@ FBI is an accurate facebook account information gathering, all sensitive informa
 $ apt update && apt upgrade
 $ apt install git python2
 $ git clone https://github.com/4hs4n/FB-Tools-by-4HS4N.git
-$ cd FB-Tools by 4HS4N
+$ cd FB-Tools-by-4HS4N
 ```
 # [ Installation ]Mac-OSX (Sierra - High Sierra)
 ```
 $ brew install python2
 $ git clone https://github.com/4hs4n/FB-Tools-by-4HS4N.git
-$ cd FB-Tools by 4HS4N
+$ cd FB-Tools-by-4HS4N
 ```
 # [ Setup ]
 ```
