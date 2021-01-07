@@ -44,7 +44,7 @@ $ python2 fbi.py
 * [Warn] please turn off your VPN before using this program !!!
 * [Tips] do not overuse this program !!!
 
-# {Forker}
+# {Contact ME}
 ```
 
 
@@ -54,6 +54,10 @@ $ python2 fbi.py
 ╚════██║██╔══██║╚════██║╚════██║██║╚██╗██║   ██╔══██║██╔══██║ ██╔██╗ ██║   ██║██╔══██╗
      ██║██║  ██║███████║     ██║██║ ╚████║██╗██║  ██║██║  ██║██╔╝ ██╗╚██████╔╝██║  ██║
      ╚═╝╚═╝  ╚═╝╚══════╝     ╚═╝╚═╝  ╚═══╝╚═╝╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═╝ ╚═════╝ ╚═╝  ╚═╝
+     GMAIL: ahasunofficial518@gmail.com
+     github: https://github.com/4hs4n
+     website: www.4hs4n.cf
+     youtube: https://www.youtube.com/channel/UCsuDV4NwD3VvTM3z6APEFXA
                                                                                       
 
 
